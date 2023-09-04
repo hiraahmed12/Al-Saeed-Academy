@@ -6,7 +6,7 @@
 
 }
 .background1{
-    background-image: url(./images/pic21.jpg);
+    background-image: url(Images/pic21.jpg);
     margin-top: 5px;
     height: 130vh;
     background-position: center;
@@ -90,7 +90,7 @@ button.main{
 
 /*--Home--*/
 .Home{
-    background-image: url(./images/home.jpg);
+    background-image: url(Images/home.jpg);
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -111,7 +111,7 @@ button.main{
 /*--Home Content Completed--*/
 /*--courses page--*/
 .background2{
-    background-image: url(./images/course1.jpg);
+    background-image: url(Images/course1.jpg);
     width: 100%;
     height: 120vh;
     background-position: center;
@@ -158,7 +158,7 @@ button.main{
 
 /*--Teachers page--*/
 .background3{
-    background-image: url(./images/quran-book.jpg);
+    background-image: url(Images/quran-book.jpg);
     width: 100%;
     height: 160vh;
     background-position: center;
